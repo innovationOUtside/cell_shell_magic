@@ -1,5 +1,9 @@
 # `cell_shell_magic`
 
+Install with:
+
+`pip install --upgrade git+https://github.com/innovationOUtside/cell_shell_magic.git`
+
 Call it by:
 
 `%load_ext cell_shell`
