@@ -15,4 +15,4 @@ This has the effect of executing the code in each code cell in its own Python sh
 
 So no hidden state. In face, no state outside the cell. Like running a py file.
 
-I bet you folk will still complain though. *"Oh, it doesn't have state. It's really rubbish and not a REPL at all..."*
+I bet you that folk will still complain though. *"Oh, it doesn't have state. It's really rubbish and not a REPL at all..."*
