@@ -1,4 +1,4 @@
-# `cell_shell_magic`
+# `nb_cell_shell`
 
 Install with:
 
