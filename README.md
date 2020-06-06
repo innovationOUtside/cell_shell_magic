@@ -2,7 +2,7 @@
 
 Install with:
 
-`pip install --upgrade git+https://github.com/innovationOUtside/cell_shell_magic.git`
+`pip install --upgrade git+https://github.com/innovationOUtside/nb_cell_shell.git`
 
 Call it by:
 
